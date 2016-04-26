@@ -1,0 +1,127 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+/* YOUR CSS GOES HERE*/
+
+body {
+	width: 960px;
+	font-size: 18px;
+	line-height: 32px;
+	color: #333;
+	margin-left: 100px;
+	margin-right: 150px:;
+	background-color: #777777;
+}
+header {
+	background: #ccc;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+}
+nav {
+	background: #ccc;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+}
+section {
+	/*
+	width: 495px;
+	padding: 20px;
+	background: #ccc;
+	margin-bottom: 20px;
+	*/
+}
+#section1 {
+	width: 495px;
+	height: 300px;
+	background: #ccc;
+	padding-top: 30px;
+}
+#article1 {
+	width: 475px;
+	height: 220px;
+	background: #777777;
+	margin: 10px 10px 10px 10px;
+	padding-top: 10px;
+	color: #ccc;
+}
+
+/*
+.parts {
+	width: 445px;
+	height: 80px;
+	background: #ccc;
+	margin: 10px 30px 10px 10px;
+	padding-top: 10px;
+	color: #777777;
+}
+*/
+#h123 {
+	width: 445px;
+	height: 70px;
+	background: #ccc;
+	margin: 10px 30px 10px 10px;
+	padding-top: 10px;
+	color: #777777;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+#p1 {
+	width: 445px;
+	height: 70px;
+	background: #ccc;
+	margin: 10px 30px 10px 10px;
+	padding-top: 10px;
+	color: #777777;
+	
+	
+}
+
+/*
+#left {
+	float: left;
+	width: 33.3%;
+	background: #666;
+	color: #fff;
+}
+#middle {
+	float: left;
+	width: 33.3%;
+	background: #888;
+	color: #fff;
+}
+#right {
+	float: left;
+	width: 33.3%;
+	background: #666;
+	color: #fff;
+}
+#full {
+	clear: both;
+	width: 100%;
+	background: #eee;
+	overflow: auto;
+}
+#division {
+	background: #6ea3da;
+	padding: 20px;
+	margin-top: 20px;
+}
+aside {
+	float: left;
+	width: 33%;
+	margin-left: 30px;
+	padding: 20px;
+	height: 200px;
+	background: #fff;
+	border: 1px solid #eee;
+}
+footer {
+	background: #ccc;
+	padding: 20px;
+	clear: both;
+}
