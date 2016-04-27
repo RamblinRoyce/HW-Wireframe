@@ -17,14 +17,14 @@ body {
 header {
 	background: #ccc;
 	padding: 20px;
-	margin-bottom: 20px;
-	color: #333;
+	margin-bottom: 10px;
+	color: #777777;
 }
 nav {
 	background: #ccc;
 	padding: 20px;
 	margin-bottom: 20px;
-	color: #333;
+	color: #777777;
 }
 section {
 	/*
@@ -39,6 +39,9 @@ section {
 	height: 300px;
 	background: #ccc;
 	padding-top: 30px;
+	float: left;
+	margin-bottom: 20px;
+	color: #777777;
 }
 #article1 {
 	width: 475px;
@@ -60,10 +63,10 @@ section {
 }
 */
 #h123 {
-	width: 445px;
+	width: 440px;
 	height: 70px;
 	background: #ccc;
-	margin: 10px 30px 10px 10px;
+	margin: 10px 30px 10px 15px;
 	padding-top: 10px;
 	color: #777777;
 	font-weight: bold;
@@ -71,15 +74,30 @@ section {
 }
 
 #p1 {
-	width: 445px;
+	width: 440px;
 	height: 70px;
 	background: #ccc;
-	margin: 10px 30px 10px 10px;
+	margin: 10px 30px 10px 15px;
 	padding-top: 10px;
 	color: #777777;
-	
-	
 }
+
+#aside1 {
+	width: 440px;
+	height: 300px;
+	background: #ccc;
+	padding-top: 30px;
+	float: right;
+	color: #777777;
+}
+#footer1{
+	clear: both;
+	background: #ccc;
+	padding: 20px;
+	color: #333;
+	color: #777777;
+}
+
 
 /*
 #left {
